@@ -1,0 +1,37 @@
+nav  {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0;
+    align-items: center;
+}
+#nav-right {
+    margin-right: 60px;
+}
+nav div {
+    display: flex;
+}
+nav img {
+    width: 80px;
+    height: 30px;
+    margin-top: 25px;
+}
+
+/* .liens-sections #liens-right {
+    margin-right: 85px;
+} */
+.liens-sections div a {
+    font-size: 20px;
+    padding-top:31px; 
+
+}
+
+.liens-sections {
+    display: flex;
+    justify-content: space-between;
+    min-width: 22%;
+}
+.liens-sections div a:hover {
+    color: var(--main-color);
+    border-top: 3px solid var(--main-color);
+    padding-top: 28px; 
+}
