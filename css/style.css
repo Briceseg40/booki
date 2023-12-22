@@ -295,7 +295,7 @@ a {
         width: 100%;
     }
     .research-all {
-        width: 100%;
+        width: 300px;
     }
     .research-all .menu-search {
     background-color: var(--main-color);
