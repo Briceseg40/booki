@@ -8,7 +8,7 @@
     height: auto;
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(auto-fill, 300px);
+    grid-template-columns: repeat(4, 22%);
     grid-gap: 40px;
 }
 
