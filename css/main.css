@@ -2,12 +2,12 @@
     margin-top: 65px;
 }
 .main-titre p {
-    font-size: 20px;
+    font-size: 16px;
     margin-top: 10px;
 }
 
 .main-titre h1 {
-    font-size: 27px;
+    font-size: 22px;
     margin-bottom: 0;
 }
 
@@ -52,7 +52,7 @@ button:hover {
 .infos h4 {
     font-weight: 100;
     margin-left: 10px;
-    font-size: 1.25em;
+    font-size: 16px;
 }
 
 .infos {
@@ -71,6 +71,10 @@ button:hover {
     text-align: center;
 }
 
+.filtres p {
+    font-size: 18px;
+    font-weight: 800;
+}
 /*Hébergements à Marseille*/
 
 .card-column {
@@ -165,7 +169,7 @@ button:hover {
     /* width: 240px; */
     color: black;
     font-weight: 900;
-    font-size: 22px;
+    font-size: 18px;
     border: none;
     padding-left: 30px;
 }
